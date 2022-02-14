@@ -60,5 +60,5 @@ You are free to use any additional third-party libraries and frameworks.
 ## Additional information
 
 The authentication/authorization of the API is outside of scope.
-Feel free to improve the application as **you** see fit (e.g. no logging but some tests are nice).  
+Feel free to improve the application as **you** see fit.  
 If you have any questions please reach out to us.
